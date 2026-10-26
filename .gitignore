@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Dependências e arquivos gerados
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+coverage/
