@@ -4,7 +4,13 @@ dist/
 .env.local
 .DS_Store
 
-# Dependências e arquivos gerados
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Dependï¿½ncias e arquivos gerados
 node_modules/
 dist/
 .env
